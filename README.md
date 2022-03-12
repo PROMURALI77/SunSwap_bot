@@ -1,5 +1,5 @@
-# Tron_Universe_Bot - chat bot
-It is repository for chat bot: [@Tron_Universe_Bot](https://t.me/Tron_Universe_Bot)
+# Sun_Swap_bot - chat bot
+It is repository for chat bot: [@Sun_Swap_Bot](https://t.me/Sunswap_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
